@@ -1,7 +1,7 @@
 # ipl-data-apache-spark-project
 ## Quections solved in this project:
 
-### 1)Filter to include only valid deliveries (excluding extras like wides and no balls for specific analyses)
+#### 1)Filter to include only valid deliveries (excluding extras like wides and no balls for specific analyses)
 ### 2)Aggregation: Calculate the total and average runs scored in each match and inning
 ### 3)Window Function: Calculate running total of runs in each match for each over
 ### 4)Conditional Column: Flag for high impact balls (either a wicket or more than 6 runs including extras)
